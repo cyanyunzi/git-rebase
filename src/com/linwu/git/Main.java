@@ -3,6 +3,6 @@ package com.linwu.git;
 public class Main {
 
     public static void main(String[] args) {
-        String str = "merge-1";
+        String str = "merge-2";
     }
 }
